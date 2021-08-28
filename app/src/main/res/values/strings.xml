@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="dynamic_form">Dynamic Form</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="signedIn">Remember me on this device</string>
+    <string name="form">Dynamic Form</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="navigate">Navigate</string>
+    <string name="order_id">Order Id</string>
+    <string name="orders_list">Orders List</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
